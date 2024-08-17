@@ -19,7 +19,7 @@ Here's a sneak peek of what you'll find in this galaxy:
 - **Cross-Language Projects**: Some projects utilize multiple languages, showing off how they can interact harmoniously.
 - **Detailed Comments**: Wherever you look, you'll find detailed comments explaining the magic behind the code.
 
-## Setup Instructions 🛠️
+## Poject BPM  🛠️
 
 ```mermaid
 flowchart TD;
