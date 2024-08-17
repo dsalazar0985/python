@@ -25,9 +25,9 @@ flowchart TD
 
     G --> G1[Establecimiento de un Proceso de Control de Cambios]
     G --> G2[Comunicación de Cambios]
-    G1 --> G3["` -Evaluacion
+    G1 --> G3["-Evaluacion
     -Analisis de impacto
-    -Revision y aprobacion`" ]
+    -Revision y aprobacion" ]
 
     G2 --> H[Finalización del Proceso]
 
